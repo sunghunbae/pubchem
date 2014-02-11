@@ -1,11 +1,10 @@
-PubChem Power User Gateway (PUG) REST service
-=============================================
+PubChem REST service
+====================
 
-PubChem Database provides the REST-style version of PUG, a web interface 
-for accessing PubChem data and services.
+The PubChem database provides the REST-style version of PUG
+(Power User Gateway), a web interface for accessing PubChem data and services.
 
 https://pubchem.ncbi.nlm.nih.gov/pug_rest/PUG_REST.html
-
 
 OpenBabel
 =========
