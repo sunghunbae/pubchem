@@ -6,8 +6,6 @@ The PubChem database provides the REST-style version of PUG
 
 https://pubchem.ncbi.nlm.nih.gov/pug_rest/PUG_REST.html
 
-OpenBabel
-=========
 
 ### generate 3D SDF using openbabel
 
@@ -15,7 +13,7 @@ OpenBabel
 $ obabel -:"CNC1=NC=NC2=C1N=CN2C3C(C(C(O3)CO)O)O" -O ob-102175.sdf -h -p --gen3d
 ```
 
-### generate SVG 
+### generate SVG using openbabel
 ```
 $ obabel -:"CNC1=NC=NC2=C1N=CN2C3C(C(C(O3)CO)O)O TITLE" -O ob-102175.svg
 ```
