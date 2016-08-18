@@ -6,7 +6,6 @@ The PubChem database provides the REST-style version of PUG
 
 https://pubchem.ncbi.nlm.nih.gov/pug_rest/PUG_REST.html
 
-
 ### generate 3D SDF using openbabel
 
 ```
